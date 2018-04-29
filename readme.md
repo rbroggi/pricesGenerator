@@ -7,9 +7,9 @@ Prices generator:
 
 ## Getting Started
 
-Setup RabbitMq broker - see Prerequisites
-git clone https://github.com/rbroggi/pricesGenerator  
-mvn spring-boot:run  
+1. Setup RabbitMq broker - see Prerequisites
+2. git clone https://github.com/rbroggi/pricesGenerator
+3. mvn spring-boot:run  
 
 ### Prerequisites
 
