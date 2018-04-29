@@ -1,7 +1,9 @@
 
 # Spring-boot - RabbitMq producer
 
-Price generator with rest endpoint for generation and insert into rabbitMq subscriber
+Prices generator:
+  * REST endpoint for price generation
+  * RabbitMq messages producer
 
 ## Getting Started
 
